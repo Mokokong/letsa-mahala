@@ -3,3 +3,4 @@
 .dev	// development variables
 .prod	//production variables
 DEVNOTES.dev
+.DS_Store
