@@ -1,0 +1,4 @@
+.node_modules //I like to htink of these as shared libraries
+.config 	// Secret things
+.dev	// development variables
+.prod	//production variables

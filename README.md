@@ -1,2 +1,16 @@
-# node_server_typescript
-Typescript + Node
+# Letsa mahala
+# VoIp + Ionic + Cordova 
+
+Client
+  dist
+  app
+  lib
+  config
+Server
+  dist
+  src
+  lib
+  config
+
+  
+ 
