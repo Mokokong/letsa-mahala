@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Real time chat client",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bafisi/node_server_typescript.git"
+  },
+  "keywords": [
+    "Node",
+    "TypeScript",
+    "Chat",
+    "WebApp"
+  ],
+  "author": "Katlego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bafisi/node_server_typescript/issues"
+  },
+  "homepage": "https://github.com/Bafisi/node_server_typescript#readme"
+}
